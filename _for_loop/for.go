@@ -52,4 +52,5 @@ func main(){
 	for i,_:=range number{
 		fmt.Println("Array element index is", i)
 	}
+
 }
