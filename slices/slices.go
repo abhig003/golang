@@ -17,7 +17,7 @@ fmt.Println("we will try to understand how the slice work in golang")
   //}
 // decalartion of slice 
 
-num:=make([] int,2,10)// herewe have intilised the slices with int type with length 2 which contian 0 value at their index and the total capacity is 10
+num:=make([] int,2,10)// here we have intilised the slices with int type with length 2 which contian 0 value at their index and the total capacity is 10
 fmt.Println(num)//[0,0]
 
 fmt.Println(len(num))//2
